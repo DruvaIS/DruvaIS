@@ -254,13 +254,11 @@ Web application connecting customers with local service providers.
 
 <div align="center">
 
-<a href="https://github.com/druvashirsangi925-byte">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=druvashirsangi925-byte&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=druvashirsangi925-byte&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=transparent" />
 
-<a href="https://github.com/druvashirsangi925-byte">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=druvashirsangi925-byte&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=7dd3fc&text_color=ffffff" />
-</a>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=druvashirsangi925-byte&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -270,9 +268,7 @@ Web application connecting customers with local service providers.
 
 <div align="center">
 
-<a href="https://github.com/druvashirsangi925-byte">
-<img src="https://streak-stats.demolab.com/?user=druvashirsangi925-byte&theme=transparent&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=druvashirsangi925-byte" />
 
 </div>
 
@@ -282,9 +278,7 @@ Web application connecting customers with local service providers.
 
 <div align="center">
 
-<a href="https://github.com/druvashirsangi925-byte">
-<img src="https://github-profile-trophy.vercel.app/?username=druvashirsangi925-byte&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=druvashirsangi925-byte&theme=flat&no-frame=true&no-bg=true&column=6" />
 
 </div>
 
@@ -294,9 +288,7 @@ Web application connecting customers with local service providers.
 
 <div align="center">
 
-<a href="https://github.com/druvashirsangi925-byte">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=druvashirsangi925-byte&bg_color=00000000&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true&custom_title=Dhruva's%20GitHub%20Contribution%20Graph" width="95%" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=druvashirsangi925-byte&theme=github-compact&hide_border=true" />
 
 </div>
 
