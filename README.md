@@ -321,19 +321,23 @@ My GitHub contribution activity is available directly on my profile:
 
 ## 💡 What I'm Currently Focused On
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   🚀 Full Stack Web Development                     │
-│   ⚛️  React.js & Modern Frontend Development        │
-│   ☕ Java & Spring Boot Fundamentals                │
-│   🗄️  SQL / MySQL Database Development              │
-│   🔗 REST API Development                           │
-│   🤖 AI & Machine Learning Applications             │
-│   📱 Building Real-World Software Solutions         │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+<table align="center">
+<tr>
+<td width="700">
+
+### 🚀 Full Stack Web Development
+
+⚛️ **React.js & Modern Frontend Development**
+☕ **Java & Spring Boot Fundamentals**
+🗄️ **SQL / MySQL Database Development**
+🔗 **REST API Development**
+🤖 **AI & Machine Learning Applications**
+🧑‍💻 **Building Real-World Software Solutions**
+
+</td>
+</tr>
+</table>
+
 
 ---
 
