@@ -328,7 +328,7 @@ My GitHub contribution activity is available directly on my profile:
 │   ⚛️  React.js & Modern Frontend Development        │
 │   ☕ Java & Spring Boot Fundamentals                │
 │   🗄️  SQL / MySQL Database Development              │
-│   🔗 REST API Development                            │
+│   🔗 REST API Development                           │
 │   🤖 AI & Machine Learning Applications             │
 │   📱 Building Real-World Software Solutions         │
 │                                                     │
