@@ -3,121 +3,370 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0284c7&height=220&section=header&text=Dhruva%20I%20S&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
 
 <a href="https://github.com/druvashirsangi925-byte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+SQL%2FMySQL+%7C+Spring+Boot;Building+Real-World+Software+Solutions;CS+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+%7C+SQL%2FMySQL+%7C+Spring+Boot;Building+Real-World+Software+Solutions;Computer+Science+Engineering+Student" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black)
-
-![Profile Views](https://komarev.com/ghpvc/?username=druvashirsangi925-byte&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/druvashirsangi925-byte?color=7dd3fc&style=for-the-badge&label=FOLLOWERS&logo=github)
+<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black" />
+<img src="https://komarev.com/ghpvc/?username=druvashirsangi925-byte&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/druvashirsangi925-byte?color=7dd3fc&style=for-the-badge&label=FOLLOWERS&logo=github" />
 
 </div>
 
 ---
 
-## 🧠 Who I Am
+## 🧠 About Me
 
 ```ts
 const dhruva = {
-  title: "Full Stack Developer",
-  stack: [
-    "React.js", "JavaScript", "HTML5", "CSS3",
-    "Java", "Spring Boot (Fundamentals)",
-    "Python", "MySQL", "SQL", "REST APIs"
+  name: "Dhruva I S",
+  role: "Full Stack Developer",
+  education: "B.E. in Computer Science and Engineering",
+  institution: "Alva's Institute of Engineering and Technology",
+  period: "2024 - 2026",
+
+  technologies: {
+    frontend: [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React.js"
+    ],
+
+    backend: [
+      "Spring Boot (Fundamentals)",
+      "REST APIs"
+    ],
+
+    programming: [
+      "Python",
+      "Java (Basics)"
+    ],
+
+    databases: [
+      "MySQL",
+      "SQL"
+    ],
+
+    tools: [
+      "Git",
+      "GitHub",
+      "VS Code"
+    ]
+  },
+
+  coreSkills: [
+    "Data Structures",
+    "Object-Oriented Programming",
+    "Responsive Web Design",
+    "UI Design",
+    "Project Management"
   ],
-  launchedProjects: [
-    "Implement-ride-sharing-system",
-    "ArecaCare AI – Areca Nut Disease Detection",
-    "Home Service Management System",
-    "IoT-Based Elderly Health Monitoring System (ongoing)"
+
+  interests: [
+    "Full Stack Development",
+    "Product Engineering",
+    "Real-World Software Solutions",
+    "AI-Powered Applications"
   ],
-  certifications: [
-    "Google Cloud Digital Leader",
-    "Machine Learning Specialization",
-    "Business English Communication Skills"
-  ],
-  status: "B.E. CSE Student @ Alva's Institute of Engineering and Technology (2024–2026)",
-  openTo: "Full-time Software Engineering / Full Stack Developer roles"
+
+  openTo: "Software Engineering / Full Stack Developer roles"
 };
 ```
 
 ---
 
+## 🎓 Education
+
+### 🎓 Alva's Institute of Engineering and Technology
+
+**B.E. in Computer Science and Engineering**
+`2024 – 2026` • **CGPA: 7.5**
+
+### 🎓 Government Polytechnic Vidyanagar
+
+**Diploma in Computer Science and Engineering**
+`2021 – 2024` • **65%**
+
+### 🏫 Rotary School, Deshpande Nagar
+
+**Secondary School (SSLC)**
+`2010 – 2021` • **91%**
+
+---
+
 ## 🚀 Featured Projects
 
-### 🚕 Ride Sharing System
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=druvashirsangi925-byte&repo=Implement-ride-sharing-system-Implement-ride-sharing-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+### 🌱 IoT-Based Elderly Health Monitoring System
 
-A ride-sharing platform implementation focused on matching riders with drivers, managing trip requests, and handling booking logic end-to-end.
+**Tech Stack**
 
-| Layer | Technology |
-|---|---|
-| Frontend | React.js, JavaScript, HTML5, CSS3 |
-| Backend | REST APIs |
-| Database | MySQL / SQL |
-| Core Logic | OOP, Data Structures |
+![Python](https://img.shields.io/badge/Python-7dd3fc?style=flat-square\&logo=python\&logoColor=black)
+![IoT](https://img.shields.io/badge/IoT-7dd3fc?style=flat-square\&logo=arduino\&logoColor=black)
 
-🔗 **Code:** [Implement-ride-sharing-system](https://github.com/druvashirsangi925-byte/Implement-ride-sharing-system-Implement-ride-sharing-system)
+An ongoing healthcare monitoring project using wearable IoT sensors to track vital signs.
 
-<br clear="right"/>
+**Highlights**
+
+* Wearable sensor-based monitoring
+* Real-time health tracking
+* Emergency alerting logic
+* Caregiver notification system
+
+**Status:** 🚧 Ongoing
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌴 ArecaCare AI
+
+**Areca Nut Disease Detection**
+
+![Python](https://img.shields.io/badge/Python-7dd3fc?style=flat-square\&logo=python\&logoColor=black)
+![React](https://img.shields.io/badge/React.js-7dd3fc?style=flat-square\&logo=react\&logoColor=black)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-7dd3fc?style=flat-square\&logo=opencv\&logoColor=black)
+
+AI-powered web application for detecting areca nut diseases using image processing.
+
+**Highlights**
+
+* Image upload
+* Disease prediction
+* Image processing
+* Responsive UI
+
+**Status:** ✅ Completed
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🏠 Home Service Management System
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React.js-7dd3fc?style=flat-square\&logo=react\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-7dd3fc?style=flat-square\&logo=mysql\&logoColor=black)
+![REST](https://img.shields.io/badge/REST%20API-7dd3fc?style=flat-square\&logo=swagger\&logoColor=black)
+
+Web application connecting customers with local service providers.
+
+**Highlights**
+
+* Service booking
+* SQL database integration
+* REST API integration
+* Responsive interface
+* User-friendly navigation
+
+**Status:** ✅ Completed
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-**Languages**
+### Programming Languages
 
-![Skills](https://skillicons.dev/icons?i=python,java)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java" />
+</p>
 
-**Frontend**
+### Frontend Development
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-**Backend / Infra**
+### Backend Development
 
-![Skills](https://skillicons.dev/icons?i=spring)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
 
-**Cloud**
+### Database
 
-![Skills](https://skillicons.dev/icons?i=gcp)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-**Databases**
+### Tools & Development Environment
 
-![Skills](https://skillicons.dev/icons?i=mysql)
-
-**Dev Tools**
-
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,windows)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,ubuntu" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Core Skills
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=druvashirsangi925-byte&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=druvashirsangi925-byte&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" />
-
-<img src="https://streak-stats.demolab.com?user=druvashirsangi925-byte&theme=nord&border=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
+![Data Structures](https://img.shields.io/badge/Data%20Structures-7dd3fc?style=for-the-badge\&logoColor=black)
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-7dd3fc?style=for-the-badge\&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20API%20Development-7dd3fc?style=for-the-badge\&logoColor=black)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Web%20Design-7dd3fc?style=for-the-badge\&logoColor=black)
+![UI Design](https://img.shields.io/badge/UI%20Design-7dd3fc?style=for-the-badge\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-7dd3fc?style=for-the-badge\&logoColor=black)
 
 </div>
 
-## 🏆 Trophies
+---
+
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=druvashirsangi925-byte&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
+| Certification / Achievement                  | Details                                                  |
+| -------------------------------------------- | -------------------------------------------------------- |
+| ☁️ **Google Cloud Digital Leader**           | Completed Google Cloud Digital Leader Training           |
+| 🤖 **Machine Learning Specialization**       | Completed certification in Machine Learning fundamentals |
+| 🌐 **Business English Communication Skills** | Certified in professional business communication         |
+| 💻 **Parivarthana Hackathon**                | Participated at VVCE Mysuru                              |
 
 </div>
+
+---
+
+## 🌟 Extra-Curricular Activities
+
+* 🔬 **Scientific Volunteer — IPR Plasma Research Exhibition**
+  Assisted with exhibition coordination, visitor engagement, and scientific demonstrations.
+
+* 💻 **Volunteer — Xypheria 2026 Hackathon**
+  Assisted with participant registration, coordination, and event management.
+
+* 🎯 **Campus Placement Volunteer**
+  Supported placement activities and coordinated between recruiters and students.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/druvashirsangi925-byte">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=druvashirsangi925-byte&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff" />
+</a>
+
+<a href="https://github.com/druvashirsangi925-byte">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=druvashirsangi925-byte&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=7dd3fc&text_color=ffffff" />
+</a>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/druvashirsangi925-byte">
+<img src="https://streak-stats.demolab.com/?user=druvashirsangi925-byte&theme=transparent&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/druvashirsangi925-byte">
+<img src="https://github-profile-trophy.vercel.app/?username=druvashirsangi925-byte&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
+</a>
+
+</div>
+
+---
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=druvashirsangi925-byte&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" />
+<a href="https://github.com/druvashirsangi925-byte">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=druvashirsangi925-byte&bg_color=00000000&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true&custom_title=Dhruva's%20GitHub%20Contribution%20Graph" width="95%" />
+</a>
+
+</div>
+
+---
+
+## 💡 What I'm Currently Focused On
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   🚀 Full Stack Web Development                     │
+│   ⚛️  React.js & Modern Frontend Development        │
+│   ☕ Java & Spring Boot Fundamentals                │
+│   🗄️  SQL / MySQL Database Development              │
+│   🔗 REST API Development                            │
+│   🤖 AI & Machine Learning Applications             │
+│   📱 Building Real-World Software Solutions         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📌 Profile Highlights
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 🎯
+
+**Focused On**
+
+Product Engineering
+
+</td>
+
+<td align="center">
+
+### 💻
+
+**Primary Stack**
+
+React + SQL + Java
+
+</td>
+
+<td align="center">
+
+### 🤖
+
+**AI Interest**
+
+Machine Learning
+
+</td>
+
+<td align="center">
+
+### 🚀
+
+**Career Goal**
+
+Software Engineering
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -127,10 +376,40 @@ A ride-sharing platform implementation focused on matching riders with drivers, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruva-shirsangi/)
-[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:druvashirsangi925@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/druvashirsangi925-byte)
+<a href="https://github.com/druvashirsangi925-byte">
+<img src="https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+<a href="mailto:druvashirsangi925@gmail.com">
+<img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:7dd3fc&height=150&section=footer&animation=twinkling" />
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**Building • Learning • Improving • Creating**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=druvashirsangi925-byte&color=7dd3fc&style=flat-square&label=VISITORS" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:7dd3fc&height=100&section=footer" />
+
+</div>
