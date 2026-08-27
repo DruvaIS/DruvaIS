@@ -254,43 +254,68 @@ Web application connecting customers with local service providers.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=druvashirsangi925-byte&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=transparent" />
+<a href="https://github.com/druvashirsangi925-byte">
+  <img src="https://img.shields.io/badge/GitHub-Profile-7dd3fc?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
-<br/><br/>
+<a href="https://github.com/druvashirsangi925-byte?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-7dd3fc?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=druvashirsangi925-byte&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+<a href="https://github.com/druvashirsangi925-byte?tab=followers">
+  <img src="https://img.shields.io/badge/Followers-View%20Followers-7dd3fc?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=druvashirsangi925-byte" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=druvashirsangi925-byte&theme=flat&no-frame=true&no-bg=true&column=6" />
+<a href="https://github.com/druvashirsangi925-byte?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-View%20Stars-7dd3fc?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🔥 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=druvashirsangi925-byte&theme=github-compact&hide_border=true" />
+### 💻 Building projects
+
+### 📚 Learning new technologies
+
+### 🚀 Improving every day
+
+### 🤝 Contributing to real-world solutions
 
 </div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/druvashirsangi925-byte?style=for-the-badge\&logo=github\&label=FOLLOWERS\&color=7dd3fc)
+
+![GitHub stars](https://img.shields.io/github/stars/druvashirsangi925-byte?style=for-the-badge\&logo=github\&label=STARS\&color=7dd3fc)
+
+![Profile views](https://komarev.com/ghpvc/?username=druvashirsangi925-byte\&style=for-the-badge\&color=7dd3fc\&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 📈 Contributions
+
+My GitHub contribution activity is available directly on my profile:
+
+<div align="center">
+
+<a href="https://github.com/druvashirsangi925-byte">
+  <img src="https://img.shields.io/badge/VIEW%20MY%20CONTRIBUTIONS-7dd3fc?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</div>
+
 
 ---
 
